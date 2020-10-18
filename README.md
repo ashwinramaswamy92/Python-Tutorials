@@ -66,7 +66,7 @@ The course is going to be divided into multiple modules, each contained in a dif
 I expect each guided session of 2 hours to be sufficient for one module, but given the interactive, student-driven approach, the pacing may vary from batch to batch.
 
 
-![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)
+[![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ashwinramaswamy92/Python-Tutorials/blob/master/MA_T1.ipynb)
 
 
 
