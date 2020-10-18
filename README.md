@@ -20,6 +20,11 @@ The aim is to take you from someone who may be unfamiliar or uncomfortable with 
 
 Along the way I also hope to incorporate some basic <b>data literacy</b>. This means that by the end of this course you should be able to make simple graphs/plots like scatterplots and histograms, with a clear understanding of what is being plotted and how.
 
+<h2>How do I access and use the tutorials?</h2>
+
+Scroll down to course contents. There is a list of modules, along with a link to the appropriate colab notebook. Open them in colab, and ideally save a copy to your local disk (ctrl + S) so that you may save changes as you work through the material.
+
+
 <h2>What will the Guided Sessions be like?</h2>
 
 
