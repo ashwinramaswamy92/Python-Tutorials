@@ -65,3 +65,6 @@ The course is going to be divided into multiple modules, each contained in a dif
 
 I expect each guided session of 2 hours to be sufficient for one module, but given the interactive, student-driven approach, the pacing may vary from batch to batch.
 
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1insZJbxC2L2fB-VE1Po-wDQRupDP1PUl]
+
