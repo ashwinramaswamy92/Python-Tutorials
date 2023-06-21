@@ -3,7 +3,7 @@
 My name is Ashwin. Hi.
 I am creating this set of 'colab notebooks' to help instruct beginners in their quest to learn coding, on Python.
  
-A bit about me: in formal corporate terminology I am what is known as a 'berozgaar'. What this means is that at the time of writing this I am looking to find ways to support myself and to contribute to an economy in free-fall. I also happen to know a bit about Python programming and how it is used in scientific research. Therefore, this is my attempt to do my little bit.
+A bit about me: I am an teacher, researcher, and programmer who also loves filter coffee.
  
 On a serious note, I am glad you are here! Hopefully I will hold your attention for a while longer so that we can learn some real programming and have some fun with Python!
 
